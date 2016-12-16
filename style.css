@@ -28,6 +28,7 @@ div {
   width: 300px;
   border:5px solid red;
   background-color: white;
+  margin-bottom: 100px;
 
 }
 .intro {
@@ -35,7 +36,6 @@ div {
   background-color: white;
   margin-bottom: 10px;
   border:5px solid red;
-  padding: 0;
 }
 
 #archduke{
