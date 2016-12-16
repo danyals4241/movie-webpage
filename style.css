@@ -1,0 +1,63 @@
+* {
+  font-family: 'Francois One', sans-serif;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  max-width: 400px;
+  border:5px solid red;
+  background-color: white;
+  margin-left: 490px;
+}
+
+div {
+  text-align: center;
+  margin: 0 200px ;
+
+}
+.secondp{
+  clear: right;
+  position: absolute;
+  padding: 5px;
+  margin-left: 520px;
+  width: 300px;
+  border:5px solid red;
+  background-color: white;
+
+}
+.intro {
+  font-size: 19px;
+  background-color: white;
+  margin-bottom: 10px;
+  border:5px solid red;
+  padding: 0;
+}
+
+#archduke{
+  float: left;   
+}
+
+#hand{
+  float:right;  
+  background-color: white;
+}
+img{
+  height: 200px;
+  width: 200px; 
+  position: relative; 
+  border:5px solid red;
+
+}
+
+.form{
+  border:5px solid red;
+  background-color: white;
+  margin-left: 530px;
+  clear: both;
+  width: 300px;
+}
