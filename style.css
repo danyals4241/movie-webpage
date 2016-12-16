@@ -45,6 +45,7 @@ div {
 #hand{
   float:right;  
   background-color: white;
+  overflow: hidden
 }
 img{
   height: 200px;
