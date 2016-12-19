@@ -10,54 +10,54 @@ body {
 h1 {
   text-align: center;
   max-width: 400px;
-  border:5px solid red;
+  border: 5px solid red;
   background-color: white;
   margin-left: 668px;
 }
 
 div {
   text-align: center;
-  margin: 0 200px ;
-
+  margin: 0 200px;
 }
-.secondp{
+
+.secondp {
   clear: right;
   position: absolute;
   padding: 5px;
   margin-left: 720px;
   width: 300px;
-  border:5px solid red;
+  border: 5px solid red;
   background-color: white;
   margin-bottom: 100px;
-
 }
+
 .intro {
   font-size: 19px;
   background-color: white;
   margin-bottom: 10px;
-  border:5px solid red;
+  border: 5px solid red;
 }
 
-#archduke{
-  float: left;   
+#archduke {
+  float: left;
 }
 
-#hand{
-  float:right;  
+#hand {
+  float: right;
   background-color: white;
   overflow: hidden;
   height: 210px;
 }
-img{
-  height: 200px;
-  width: 200px; 
-  position: relative; 
-  border:5px solid red;
 
+img {
+  height: 200px;
+  width: 200px;
+  position: relative;
+  border: 5px solid red;
 }
 
-.form{
-  border:5px solid red;
+.form {
+  border: 5px solid red;
   background-color: white;
   margin-left: 725px;
   clear: both;
