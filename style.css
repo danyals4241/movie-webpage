@@ -24,7 +24,7 @@ div {
   clear: right;
   position: absolute;
   padding: 5px;
-  margin-left: 420px;
+  margin-left: 450px;
   width: 300px;
   border: 5px solid red;
   background-color: white;
@@ -59,7 +59,7 @@ img {
 .form {
   border: 5px solid red;
   background-color: white;
-  margin-left:415px;
+  margin-left:445px;
   clear: both;
   width: 300px;
 }
