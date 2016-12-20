@@ -12,7 +12,7 @@ h1 {
   max-width: 400px;
   border: 5px solid red;
   background-color: white;
-  margin-left: 435px;
+  margin-left: 720px;
 }
 
 div {
@@ -24,7 +24,7 @@ div {
   clear: right;
   position: absolute;
   padding: 5px;
-  margin-left: 480px;
+  margin-left: 760px;
   width: 300px;
   border: 5px solid red;
   background-color: white;
@@ -59,7 +59,7 @@ img {
 .form {
   border: 5px solid red;
   background-color: white;
-  margin-left:480px;
+  margin-left:764px;
   clear: both;
   width: 300px;
 }
